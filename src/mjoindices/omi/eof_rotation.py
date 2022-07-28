@@ -27,9 +27,6 @@ import inspect
 import numpy as np
 import warnings
 import importlib
-import scipy.interpolate
-import scipy.optimize as optimize
-import scipy.linalg as linalg
 import pandas as pd
 
 import mjoindices.empirical_orthogonal_functions as eof
